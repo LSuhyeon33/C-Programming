@@ -1,0 +1,2 @@
+C:\Users\gus98\Desktop\대학\3힉년 1학기\c++프로그래밍\C++2022\Algolab2\x64\Debug\Algolab2.exe
+C:\Users\gus98\Desktop\Project\2nd-major\C++Programming\Algolab2\x64\Debug\Algolab2.exe
